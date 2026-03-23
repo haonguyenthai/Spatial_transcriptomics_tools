@@ -286,6 +286,9 @@
 
 - [STAN](https://github.com/osmanbeyoglulab/STAN) - [R] - Spatial transcription factor analysis
 
+### Spatial Niche Mapping
+- [SpatialFusion](https://www.biorxiv.org/content/10.64898/2026.03.16.712056v1.full.pdf) SpatialFusion: A lightweight multimodal foundation model for pathway-informed spatial niche mapping
+
 ## Technical Enhancements
 
 ### Slide Alignment
