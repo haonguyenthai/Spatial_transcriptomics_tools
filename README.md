@@ -337,6 +337,9 @@
 - [SPATCH Benchmark - 2025](https://www.nature.com/articles/s41467-025-64292-3) - [Paper] - Showing Xenium performs best
 - [Thunder](https://github.com/MICS-Lab/thunder) - [Python] - Pathology benchmark
 
+## WSI tools
+- [LazySlide] https://github.com/rendeirolab/LazySlide) [LazySlide: accessible and interoperable whole-slide image analysis](https://www.nature.com/articles/s41592-026-03044-7#data-availability) 
+
 ## Datasets & Foundation Models
 
 ### Datasets
